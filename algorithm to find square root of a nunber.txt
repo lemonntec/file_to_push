@@ -1,3 +1,4 @@
+FINDING THE SQUARE ROOT OF A GIVEN NUMBER
 step 1: input two values 'a' and 'b' that are guarranteed to have the answer between them
 step2: sum the numbers (a+b)
 step3: divide the sum by 2
