@@ -1,6 +1,6 @@
-step 1: input two values that are guarranteed to have the answer between them
-step2: sum the numbers
+step 1: input two values 'a' and 'b' that are guarranteed to have the answer between them
+step2: sum the numbers (a+b)
 step3: divide the sum by 2
-step4: determine if the square of the number is greater or lower than the target number
+step4: determine if the square of the number is greater or lower than the target number.
 step5: replace either the lower or the higher number with the avearage
 step6: repeat from step1 - 5 until a desired answer is obtained
